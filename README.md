@@ -1,15 +1,15 @@
 ### Olá, sou o Murilo 👋
 
 Estudante de Sistemas de Informação na PUC-Campinas, atualmente atuando como
-IT Intern na Medley (Sanofi), onde uso Python para automatizar processos e
+Estagiario de TI na empresa Medley Farmaceutica, onde uso Python para automatizar processos e
 apoio infraestrutura corporativa no dia a dia.
 
 Estou construindo uma base sólida em desenvolvimento de software, com foco em:
 
-- 💻 **Linguagens:** Java, Python, JavaScript, C
-- 🌐 **Web:** HTML5, CSS3
-- 🗄️ **Dados:** SQL, MongoDB
-- 🔧 **Ferramentas:** Git, GitHub, Power BI
+- 💻 **Linguagens:** Java, Python, C
+- 🌐 **Web:** HTML5, CSS3, JavaScript
+- 🗄️ **Dados:** SQL, MongoDB, Firebase
+- 🔧 **Ferramentas:** Git, GitHub, Power BI, Cloud computing
 
 **Projetos em destaque:**
 - 💬 [expense-bot](https://github.com/yMrlx/expense-bot) — bot de Telegram para controle de gastos pessoais
