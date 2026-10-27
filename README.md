@@ -12,8 +12,8 @@ Estou construindo uma base sólida em desenvolvimento de software, com foco em:
 - 🔧 **Ferramentas:** Git, GitHub, Power BI
 
 **Projetos em destaque:**
-- 🛫 [aeroportos-em-grafo-em-matriz-esparsa](https://github.com/yMrlx/aeroportos-em-grafo-em-matriz-esparsa) — sistema de rotas aéreas em C usando grafos com matriz esparsa
-- 🌱 [Sistema de Monitoramento de Sustentabilidade Pessoal](https://github.com/yMrlx/Sistema-de-monitoramento-de-sustentabilidade-pessoal) — app em Python para acompanhar hábitos sustentáveis
-- 🐾 [casa-de-racao](https://github.com/yMrlx/casa-de-racao) — site institucional em HTML, CSS e JS
+- 💬 [expense-bot](https://github.com/yMrlx/expense-bot) — bot de Telegram para controle de gastos pessoais
+- 📊 [automacao-treinamentos-excel](https://github.com/yMrlx/automacao-treinamentos-excel) — automação em Python + xlwings do ciclo mensal de controle de treinamentos em Excel
+- 🧾 [automacao-withholding-tax](https://github.com/yMrlx/automacao-withholding-tax) — automação em Python + Selenium de Withholding Tax em Change Requests no SAP MDG
 
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/muriloferrez) · ferrezmurilo@gmail.com
